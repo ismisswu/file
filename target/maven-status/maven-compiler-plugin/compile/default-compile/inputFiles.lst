@@ -1,0 +1,16 @@
+/home/runner/work/file/file/src/main/java/com/dji/analysis/DroneImageAnalyzer.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/analyzer/DiseaseMaskAnalyzer.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/analyzer/NDREAnalyzer.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/analyzer/NDVIAnalyzer.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/model/AnalysisConfig.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/model/AnalysisReport.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/model/DiseaseCluster.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/model/DiseaseMaskResult.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/model/HealthScore.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/model/IndexAnalysisResult.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/model/ZoneInfo.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/stats/DistributionHistogram.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/stats/SpatialAnalysis.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/stats/StatisticsCalculator.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/utils/ColorScaleDecoder.java
+/home/runner/work/file/file/src/main/java/com/dji/analysis/utils/ImageLoader.java
